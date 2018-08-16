@@ -1,7 +1,7 @@
 {
   "name": "@tjoskar/mobx-react-util",
   "description": "Utility functions for react with mobx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "jest",
     "start": "tsc --watch",

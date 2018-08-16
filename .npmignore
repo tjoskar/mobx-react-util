@@ -1,0 +1,12 @@
+.vscode
+coverage
+node_modules
+npm-debug.log
+src
+.editorconfig
+.gitignore
+.prettierignore
+.travis.yml
+renovate.json
+tsconfig.json
+wallaby.js
