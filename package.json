@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "start": "tsc --watch",
-    "prepublish": "tsc"
+    "prepublishOnly": "tsc"
   },
   "author": "Oskar Karlsson <kontakta@oskarkarlsson.nu>",
   "bugs": {
