@@ -24,7 +24,7 @@
     "react-dom": "^16.4.2",
     "react-test-renderer": "^16.4.2",
     "rxjs": "^6.2.2",
-    "simple-spy": "^2.2.1",
+    "simple-spy": "^3.0.0",
     "ts-jest": "^24.0.0",
     "typescript": "^3.0.1"
   },
